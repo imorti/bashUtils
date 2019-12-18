@@ -9,6 +9,8 @@ apt update
 echo "Upgrading apt packages"
 apt upgrade
 
+echo "setup complete"
+
 
 
 
